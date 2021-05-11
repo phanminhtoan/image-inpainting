@@ -18,7 +18,7 @@ Inpainting for Face:
 - Result will be store in root folder: result.png
 
 Inpainting for Place:
-- cmd: python inpainting_place.py --image demo/case1_input.png --mask demo/case1_mask.png
+- cmd: python inpainting_place.py --image demo_place/case1_input.png --mask demo_place/case1_mask.png
 - Result will be store in root folder: result.png
 
 # Video demo is also add in google drive: https://drive.google.com/drive/folders/16HR0iH4SvXaCDLIyg_vNZJ42DSxu9Pi1?usp=sharing
