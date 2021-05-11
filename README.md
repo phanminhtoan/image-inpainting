@@ -1,11 +1,12 @@
 # Source code is structurized from
-https://github.com/JiahuiYu/neuralgym
-https://github.com/JiahuiYu/generative_inpainting
+- https://github.com/JiahuiYu/neuralgym
+- https://github.com/JiahuiYu/generative_inpainting
+
 This source above written with tensorflow 1.x
 
 # Now it have been migrated to tensorflow 2.x
 We can run souce code with env installed tensorflow 2.x
-- Install requirement: cmd: pip install -r requirement.txt
+- Install requirement: cmd: pip install -r requirements.txt
 Install neralgym package: this package have already migrated to tensorflow 2.x
 - cmd: git clone https://github.com/phanminhtoan/neuralgym.git
 - cmd: cd neuralgym
