@@ -1,6 +1,7 @@
 # Source code is structurized from
 - https://github.com/JiahuiYu/neuralgym
 - https://github.com/JiahuiYu/generative_inpainting
+
 This source above written with tensorflow 1.x
 
 # Now it have been migrated to tensorflow 2.x
