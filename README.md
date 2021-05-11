@@ -13,6 +13,7 @@ Install neralgym package: this package have already migrated to tensorflow 2.x
 - cmd: python setup.py install
 
 We can run project with two model
+
 Inpainting for Face:
 - cmd: python inpainting_face.py --image demo_face/case1_input.png --mask demo_face/case1_mask.png
 - Result will be store in root folder: result.png
