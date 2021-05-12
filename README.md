@@ -31,7 +31,7 @@ dist-packages/tensorflow/python/training/py_checkpoint_reader.py", line 70, in g
 
 IndexError: Read less bytes than requested
 
-### -> The reason is the model is commit with git LFS, that mean you have not been cloned comepleted this file together with source code, so that you download directly raw file update for model as link:
+### -> The reason is the model is commit with git LFS, that mean you have not been cloned comepleted this file together with source code (even you downloaded as zip), so that you need to download directly raw file update for model as link:
 
 https://github.com/phanminhtoan/image-inpainting/raw/master/model_logs/release_places2_256/snap-0.data-00000-of-00001
 
